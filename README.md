@@ -5,7 +5,7 @@ A repo to store ToDo for setting up R User Group - India chapter
 
 **Group Description**
 
-# R User Group for India
+# [R User Group for India](https://chat.whatsapp.com/Hp7JfNSKlsa5k70OOKpzJA)
 
 ## Welcome
 Welcome to the R User Group for India! Whether you're a seasoned R developer, a beginner exploring the world of data science, or someone curious about the application of R in various domains, you've found your community. We're thrilled to have you here and are committed to creating a space that fosters learning, collaboration, and growth.
@@ -33,6 +33,10 @@ Engage in discussions on a wide range of topics, including but not limited to da
 8. **Career Development:** Explore career opportunities, mentorship possibilities, and professional growth.
 9. **Interactive Workshops and Events:** Participate in interactive sessions designed to enhance your practical skills in R.
 10. **Contribute to Community Growth:** Be a part of a community that values your input.
+
+## Join Us over WhatsApp
+
+WhatsApp Group Link: https://chat.whatsapp.com/Hp7JfNSKlsa5k70OOKpzJA
 
 Join us on this exhilarating journey where learning, collaboration, and community thrive. Together, let's unlock the full potential of R in our professional endeavors!
 
